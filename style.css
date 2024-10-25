@@ -6,3 +6,13 @@ h1 {
   color: white;
   tex-align: center;
 }
+
+h2 {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+img {
+  weight: 100px;
+  height: 150px;
+}
